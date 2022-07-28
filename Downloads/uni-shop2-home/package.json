@@ -1,0 +1,11 @@
+{
+  "name": "uniapp-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/tan-jialedexiaojia/uni-shop2.git",
+  "author": "“tanjiale” <1696367211@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1"
+  }
+}
